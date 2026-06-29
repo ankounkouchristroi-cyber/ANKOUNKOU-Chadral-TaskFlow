@@ -17,7 +17,7 @@ Chadral ANKOUNKOU - Licence Informatique 1 - Groupe ISI
 4. Lancer l'application : python main.py
 ## Fonctionnalites implementees
 - [x] Connexion MySQL
-- [ ] Inscription et connexion utilisateur
+- [x] Inscription et connexion utilisateur
 - [ ] Ajout, affichage, modification, suppression de taches
 - [ ] Changement de statut avec historique
 - [ ] Filtres et recherche
