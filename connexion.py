@@ -21,3 +21,14 @@ def fermer_connexion(conn):
         conn.close()
         print("connexion ferme avec succes")
     
+def test_connexion():
+    conn = obtenir_connexion()
+    if conn:
+        print(" Connexion reussie !")
+        fermer_connexion(conn)
+    else:
+        print(" La connexion a échoué")
+
+
+if __name__ == "__main__":
+    test_connexion()
