@@ -18,7 +18,7 @@ Chadral ANKOUNKOU - Licence Informatique 1 - Groupe ISI
 ## Fonctionnalites implementees
 - [x] Connexion MySQL
 - [x] Inscription et connexion utilisateur
-- [ ] Ajout, affichage, modification, suppression de taches
+- [x] Ajout, affichage, modification, suppression de taches
 - [ ] Changement de statut avec historique
 - [ ] Filtres et recherche
 - [ ] Gestion des categories
