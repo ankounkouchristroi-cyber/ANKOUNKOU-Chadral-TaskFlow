@@ -19,8 +19,8 @@ Chadral ANKOUNKOU - Licence Informatique 1 - Groupe ISI
 - [x] Connexion MySQL
 - [x] Inscription et connexion utilisateur
 - [x] Ajout, affichage, modification, suppression de taches
-- [ ] Changement de statut avec historique
-- [ ] Filtres et recherche
+- [x] Changement de statut avec historique
+- [x] Filtres et recherche
 - [ ] Gestion des categories
 - [ ] Statistiques
 ## Structure du projet
